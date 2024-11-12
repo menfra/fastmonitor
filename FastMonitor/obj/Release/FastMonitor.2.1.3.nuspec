@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FastMonitor</id>
+    <version>2.1.3</version>
+    <authors>Frank Mensah</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>FastMonitor is a .NET data access package enforcing zero trust security, role-based access control, and comprehensive logging.</description>
+    <tags>security, zero-trust, logging, authorization</tags>
+    <repository type="git" url="https://github.com/YourGitHub/FastMonitor" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="8.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Frank\projects\FastMonitor\FastMonitor\bin\Release\netstandard2.1\FastMonitor.dll" target="lib\netstandard2.1\FastMonitor.dll" />
+  </files>
+</package>

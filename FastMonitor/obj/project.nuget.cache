@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KcCwJst0cnx7SYg/9Db9EPDUxDDRaCkaTtg4McMz37n7UnJnsLBZLzAWa7N98Ncr4CFzUCbtij1gxYMEF0+POQ==",
+  "success": true,
+  "projectFilePath": "C:\\Frank\\projects\\fastmonitor\\FastMonitor\\FastMonitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\menfr\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\menfr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

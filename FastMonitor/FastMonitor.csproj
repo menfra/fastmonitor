@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <PackageId>menfra.FastMonitor</PackageId>
+    <Version>2.1.3</Version>
+    <Authors>Frank Mensah</Authors>
+	  <PackageReadmeFile>README.md</PackageReadmeFile>
+    <Description>FastMonitor is a .NET data access package enforcing zero trust security, role-based access control, and comprehensive logging.</Description>
+    <PackageTags>security, zero-trust, logging, authorization</PackageTags>
+    <RepositoryUrl>https://github.com/YourGitHub/FastMonitor</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.1" />
+  </ItemGroup>
+</Project>	
