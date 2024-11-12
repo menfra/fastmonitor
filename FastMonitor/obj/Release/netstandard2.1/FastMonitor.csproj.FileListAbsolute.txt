@@ -1,0 +1,10 @@
+C:\Frank\projects\FastMonitor\FastMonitor\bin\Release\netstandard2.1\FastMonitor.deps.json
+C:\Frank\projects\FastMonitor\FastMonitor\bin\Release\netstandard2.1\FastMonitor.dll
+C:\Frank\projects\FastMonitor\FastMonitor\bin\Release\netstandard2.1\FastMonitor.pdb
+C:\Frank\projects\FastMonitor\FastMonitor\obj\Release\netstandard2.1\FastMonitor.csproj.AssemblyReference.cache
+C:\Frank\projects\FastMonitor\FastMonitor\obj\Release\netstandard2.1\FastMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Frank\projects\FastMonitor\FastMonitor\obj\Release\netstandard2.1\FastMonitor.AssemblyInfoInputs.cache
+C:\Frank\projects\FastMonitor\FastMonitor\obj\Release\netstandard2.1\FastMonitor.AssemblyInfo.cs
+C:\Frank\projects\FastMonitor\FastMonitor\obj\Release\netstandard2.1\FastMonitor.csproj.CoreCompileInputs.cache
+C:\Frank\projects\FastMonitor\FastMonitor\obj\Release\netstandard2.1\FastMonitor.dll
+C:\Frank\projects\FastMonitor\FastMonitor\obj\Release\netstandard2.1\FastMonitor.pdb
